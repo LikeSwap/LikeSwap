@@ -1,14 +1,14 @@
 {
-  "name": "LikeSwap Default List",
-  "timestamp": "2021-03-17T09:56:23Z",
+  "name": "likeswap",
+  "timestamp": "2021-06-12T01:41:29.665Z",
   "version": {
-    "major": 3,
-    "minor": 0,
-    "patch": 0
+    "major": 1,
+    "minor": 3,
+    "patch": 3
   },
   "tags": {},
   "logoURI": "https://likeswap.org/logo.png",
-  "keywords": ["shibcake", "default"],
+  "keywords": ["likeswap", "default"],
   "tokens": [
       {
       "name": "LikeSwap Token",
